@@ -2182,7 +2182,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .info-toggle::after {
-  content: "More Info";
+  content: "Mais Info";
   display: block;
   position: absolute;
   top: 0;
@@ -2262,7 +2262,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .info-is-visible .info-toggle::after {
-  content: "close";
+  content: "VOLTAR";
 }
 
 
